@@ -1,0 +1,4 @@
+module VersaPlayer {
+header "VersaPlayer-Swift.h"
+export *
+}

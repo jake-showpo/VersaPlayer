@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'VersaPlayer-product' in project 'VersaPlayer'
+➜ Explicit dependency on target 'VersaPlayer' in project 'VersaPlayer'
+Target 'VersaPlayer-product' in project 'VersaPlayer'
+➜ Explicit dependency on target 'VersaPlayer' in project 'VersaPlayer'
+Target 'VersaPlayer' in project 'VersaPlayer' (no dependencies)
