@@ -5,11 +5,11 @@
       "name" : "VersaPlayer",
       "path" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer",
       "projects" : [
-        "05cf7ec9e10d7e0a1873979ee86fd0eea3ee50761622c6b7aa87dede3eb8e087",
+        "03b27dcae2240b5fb0e9930a7239b8389eed7a2b2cb701bcd99a5601d05a9141",
         "2193e859bdbdae691c6764ab5640c78b551edde251a6c66c9d1022e627c68692"
       ]
     },
-    "signature" : "0164553fd8a616296927ac069e00bfbd7550ee197c00a16ba61713ed74d8ce91",
+    "signature" : "013498dcc5ccf937e542da22cfa7bfc1ed25397e98c527eccf8c7375e0b6bf8c",
     "type" : "workspace"
   },
   {
@@ -48,8 +48,8 @@
               "DEBUG=1"
             ],
             "INDEX_ENABLE_DATA_STORE" : "YES",
-            "IPHONEOS_DEPLOYMENT_TARGET" : "15.0",
-            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "15.0",
+            "IPHONEOS_DEPLOYMENT_TARGET" : "16.0",
+            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "16.0",
             "KEEP_PRIVATE_EXTERNS" : "NO",
             "LIBTOOL_NO_WARNING_FOR_NO_SYMBOLS" : "YES",
             "LINKER_DRIVER" : "auto",
@@ -68,6 +68,9 @@
             ],
             "PRODUCT_NAME" : "$(TARGET_NAME)",
             "SKIP_INSTALL" : "YES",
+            "SPECIALIZATION_SDK_OPTIONS[__platform_filter=ios;ios-simulator]" : [
+
+            ],
             "SUPPORTED_PLATFORMS" : [
               "$(AVAILABLE_PLATFORMS)"
             ],
@@ -123,8 +126,8 @@
               "$(inherited)",
               "SWIFT_PACKAGE"
             ],
-            "IPHONEOS_DEPLOYMENT_TARGET" : "15.0",
-            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "15.0",
+            "IPHONEOS_DEPLOYMENT_TARGET" : "16.0",
+            "IPHONEOS_DEPLOYMENT_TARGET[__platform_filter=ios-maccatalyst]" : "16.0",
             "KEEP_PRIVATE_EXTERNS" : "NO",
             "LIBTOOL_NO_WARNING_FOR_NO_SYMBOLS" : "YES",
             "LINKER_DRIVER" : "auto",
@@ -142,6 +145,9 @@
             ],
             "PRODUCT_NAME" : "$(TARGET_NAME)",
             "SKIP_INSTALL" : "YES",
+            "SPECIALIZATION_SDK_OPTIONS[__platform_filter=ios;ios-simulator]" : [
+
+            ],
             "SUPPORTED_PLATFORMS" : [
               "$(AVAILABLE_PLATFORMS)"
             ],
@@ -262,7 +268,7 @@
         "4ed4002f609a2406fbb72074b2a068192889026e4ced5ddb7e74343878492466"
       ]
     },
-    "signature" : "05cf7ec9e10d7e0a1873979ee86fd0eea3ee50761622c6b7aa87dede3eb8e087",
+    "signature" : "03b27dcae2240b5fb0e9930a7239b8389eed7a2b2cb701bcd99a5601d05a9141",
     "type" : "project"
   },
   {

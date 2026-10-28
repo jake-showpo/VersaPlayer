@@ -1,0 +1,29 @@
+{
+  "" : {
+    "diagnostics" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/VersaPlayerTests-primary.dia",
+    "emit-module-dependencies" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/VersaPlayerTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/VersaPlayerTests-primary-emit-module.dia",
+    "pch" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/VersaPlayerTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/VersaPlayerTests-primary.swiftdeps"
+  },
+  "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/DerivedSources/test_entry_point.swift" : {
+    "const-values" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/test_entry_point.swiftconstvalues",
+    "dependencies" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/test_entry_point.d",
+    "diagnostics" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/test_entry_point.dia",
+    "index-unit-output-path" : "/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "llvm-bc" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/test_entry_point.bc",
+    "object" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/test_entry_point.o",
+    "swift-dependencies" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/test_entry_point.swiftdeps",
+    "swiftmodule" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/test_entry_point~partial.swiftmodule"
+  },
+  "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/Tests/VersaPlayerTests/VersaPlayerTests.swift" : {
+    "const-values" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/VersaPlayerTests.swiftconstvalues",
+    "dependencies" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/VersaPlayerTests.d",
+    "diagnostics" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/VersaPlayerTests.dia",
+    "index-unit-output-path" : "/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/VersaPlayerTests.o",
+    "llvm-bc" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/VersaPlayerTests.bc",
+    "object" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/VersaPlayerTests.o",
+    "swift-dependencies" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/VersaPlayerTests.swiftdeps",
+    "swiftmodule" : "/Users/rjakecastro/Desktop/Projects/showpo/VersaPlayer/.build/out/Intermediates.noindex/VersaPlayer.build/Debug/VersaPlayerTests-p.build/Objects-normal/arm64/VersaPlayerTests~partial.swiftmodule"
+  }
+}
